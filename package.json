@@ -1,0 +1,39 @@
+{
+  "name": "open-tabs-npm",
+  "version": "0.0.0",
+  "description": "This module will open all npm packages on your browser based on your query.",
+  "main": "cli.js",
+  "bin": {
+    "npmsearch": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" or even needed && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/open-tabs-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "tabs",
+    "search",
+    "fast",
+    "query",
+    "open",
+    "browser",
+    "automation",
+    "lightning-fast"
+  ],
+  "author": "Mohamed Hayibor <mohamedhamed@gmail.com> (github.com/mohamedhamed)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/open-tabs-npm/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/open-tabs-npm#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "got": "^6.3.0",
+    "meow": "^3.7.0",
+    "open": "0.0.5"
+  }
+}
