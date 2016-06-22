@@ -16,7 +16,8 @@ On your terminal:
   > npmsearch <query>
 ```
 # Demo
-![](http://recordit.co/qqGp5TohHA)
+
+![](http://g.recordit.co/qqGp5TohHA.gif)
 
 #### Api
 
