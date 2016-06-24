@@ -1,6 +1,6 @@
 {
   "name": "open-tabs-npm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This module will open all npm packages on your browser based on your query.",
   "main": "cli.js",
   "bin": {

@@ -28,5 +28,8 @@ No api to mess with. Enter the command and get instant results.
 ### Raison D'etre
 npm packages are super cool. I religiously go to each and open them anyways. So might as well do it with my eyes closed with only one command. This package does the task super well.
 
+### Related
+This package led to [Megasearch](https://github.com/mohamedhayibor/megasearch) it is a much more powerful (same thing with Google, Github, Stackoverflow, Mozilla, Gists (github))
+
 ## License
 MIT © [Mohamed Hayibor](http://github.com/mohamedhayibor)
